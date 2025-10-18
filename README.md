@@ -46,3 +46,5 @@ generate_report "Common Characteristics" {
 }
 
 The Result and Header analysis report was attached.
+# Conclusion 
+The project highlighted the critical nature of phishing awareness and the effectiveness of simple strategies to identify and mitigate phishing threats. Awareness and education remain paramount
